@@ -6,12 +6,12 @@
 
 The data was collected in 2015 using Twitter API. This dataset contains health news from more than 15 major health news agencies such as BBC, CNN, and NYT.
 
-# Data Set Information:
+## Data Set Information:
 
 Each file is related to one Twitter account of a news agency. For example, bbchealth.txt is related to BBC health news. Each line contains tweet id|date and time|tweet. The
 separator is '|'. This text data has been used to evaluate the performance of topic models on short text data. However, it can be used for other tasks such as clustering.
 
-# Output
+## Output
 
 * Dataset URL : https://archive.ics.uci.edu/ml/datasets/Health+News+in+Twitter
 
